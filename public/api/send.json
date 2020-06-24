@@ -1,0 +1,14 @@
+{
+    "err": 0,
+    "msg": "Success",
+    "data": {
+        "messageId": 1553605391068,
+        "threadId": 12345,
+        "senderId": 11111,
+        "msg": {
+            "body": "Do you have any language qualification"
+        },
+        "timestamp": 1553605391068
+    },
+    "timestamp": 1553605391068
+}

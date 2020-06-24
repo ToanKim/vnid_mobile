@@ -1,0 +1,16 @@
+{
+    "err": 0,
+    "msg": "Success",
+    "data": {
+        "threadId": 12345,
+        "participantId": 11111,
+        "messages": [{
+            "messageId": "123123",
+            "msg": {
+                "body": "Hello there"
+            },
+            "timestamp": 1553605391068
+        }]
+    },
+    "timestamp": 1553605391068
+}

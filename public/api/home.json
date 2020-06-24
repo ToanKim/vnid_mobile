@@ -1,0 +1,98 @@
+{
+    "err": 0,
+    "msg": "Success",
+    "data": {
+        "boxes": [
+            {
+                "title": "result",
+                "items": [
+                    {
+                        "link": "history/aaasdaw",
+                        "title": "Search chatbot",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "history/aaasdaw",
+                        "title": "Search chatbot",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "history/aaasdaw",
+                        "title": "Search chatbot",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "history/aaasdaw",
+                        "title": "Search chatbot",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "title": "Search chatbot",
+                        "description": "University of queensland"
+                    }
+                ]
+            },
+            {
+                "title": "for you",
+                "items": [
+                    {
+                        "link": "package/aaasdaw1",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw2",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw3",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw4",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw5",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    }
+                ]
+            },
+            {
+                "title": "best review",
+                "items": [
+                    {
+                        "link": "package/aaasdaw12",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw13",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw14",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw15",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    },
+                    {
+                        "link": "package/aaasdaw16",
+                        "title": "Study Abroad Package",
+                        "description": "University of queensland"
+                    }
+                ]
+            }
+        ]
+    },
+    "timestamp": 1553605391068
+}

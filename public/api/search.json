@@ -1,0 +1,38 @@
+{
+    "err": 0,
+    "msg": "Success",
+    "data": [{
+            "id": "wid02idđ1e12e210122d=-212e",
+            "type": "package",
+            "name": "Full Studying Abroad Scholarship in England",
+            "description": "This scholarship will provide you the full opportunity to study overseas",
+            "image_URL": "https://megastudy.edu.vn/upload/tinymce/1516.jpg",
+            "provider": "Sunrise Study Abroad Center"
+        },
+        {
+            "id": "wid02id0122d=-212e",
+            "type": "package",
+            "name": "Full Studying Abroad Package in Australia with Sunrise",
+            "description": "This scholarship will provide you the full opportunity to study overseas",
+            "image_URL": "https://megastudy.edu.vn/upload/tinymce/1516.jpg",
+            "provider": "Sunrise Study Abroad Center"
+        },
+        {
+            "id": "wid012312d12d122d=-212e",
+            "type": "package",
+            "name": "Full Studying Abroad Package in Canada with Sunrise",
+            "description": "This scholarship will provide you the full opportunity to study overseas",
+            "image_URL": "https://megastudy.edu.vn/upload/tinymce/1516.jpg",
+            "provider": "Sunrise Study Abroad Center"
+        },
+        {
+            "id": "wid02ie12e210122d=-212e",
+            "type": "package",
+            "name": "Full Studying Abroad Package in Campuchia with Sunrise",
+            "description": "This scholarship will provide you the full opportunity to study overseas",
+            "image_URL": "https://megastudy.edu.vn/upload/tinymce/1516.jpg",
+            "provider": "Sunrise Study Abroad Center"
+        }
+    ],
+    "timestamp": 1553605391068
+}
